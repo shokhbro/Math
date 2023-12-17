@@ -1,6 +1,7 @@
 import random
 from calculus_db import MisolDB
 
+
 def amallar_dasturi(soni):
     db_natijalar = MisolDB()
 
