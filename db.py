@@ -1,5 +1,6 @@
 import sqlite3
 
+
 class DBOneToOne:
     def __init__(self, db_name='example.db'):
         self.db_name = db_name
